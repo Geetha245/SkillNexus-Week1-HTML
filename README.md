@@ -1,4 +1,4 @@
-#Week 1 – HTML & CSS Fundamentals
+Week 1 – HTML & CSS Fundamentals
 
 A basic web development project created using HTML5 and CSS3 as part of the Week 1 internship assignment.
 
@@ -15,4 +15,4 @@ Features
 
 Author
 
-Geethanjali Rachamalla
+ Rachamalla Geethanjali
